@@ -16,4 +16,5 @@ void input() {							// Procedure untuk input
 		}
 	}
 	cout << endl;						// Output ke layar
+	cout << "====================" << endl;								// Output ke layar
 }
