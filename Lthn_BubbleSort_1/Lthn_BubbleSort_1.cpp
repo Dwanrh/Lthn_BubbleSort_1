@@ -50,7 +50,7 @@ void unsorted() {
 
 void display() {							// Procedure untuk menampilkan hasil
 	cout << endl;														// Output baris kosong
-	cout << "================================" << endl;					// Output ke layar
+	cout << "==================================" << endl;				// Output ke layar
 	cout << "Element Array yang telah  tersusun" << endl;				// Output ke layar
 	cout << "==================================" << endl;				// Output ke layar
 }
