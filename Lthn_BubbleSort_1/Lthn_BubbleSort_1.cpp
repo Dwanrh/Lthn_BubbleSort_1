@@ -58,3 +58,7 @@ void display() {							// Procedure untuk menampilkan hasil
 	}
 	cout << endl;							// Output baris kosong
 }
+
+int main() {
+	input();							// Memanggil procedure read()
+}
