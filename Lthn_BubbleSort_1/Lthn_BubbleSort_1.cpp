@@ -33,9 +33,6 @@ void bubbleSortArray() {					// Procedure untuk mengurutkan array dengan metode 
 				a[j] = a[j + 1];			// Assign nilai a[j+1] ke a[j]
 				a[j + 1] = temp;			// Assign nilai temp ke a[j+1]
 			}
-
 		}
-
 	}
-
 }
