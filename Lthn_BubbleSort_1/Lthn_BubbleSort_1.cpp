@@ -7,6 +7,6 @@ int n;                                  // Deklarasi variabel n untuk menyimpan 
 
 void input() {							// Procedure untuk input
 	while (true {						// Looping
-
+		cout << "Masukan banyaknya elemen pada array : ";								// Output ke layar
 	})
 }
