@@ -62,4 +62,5 @@ void display() {							// Procedure untuk menampilkan hasil
 int main() {
 	input();							// Memanggil procedure read()
 	unsorted();							// Memanggil procedure unsorted() dari
+	bubbleSortArray();					// Memanggil procedure bubbleSortArray()
 }
