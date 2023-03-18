@@ -18,4 +18,5 @@ void input() {							// Procedure untuk input
 	cout << endl;						// Output baris kosong
 	cout << "====================" << endl;								// Output ke layar
 	cout << "Masukan elemen Array" << endl;								// Output ke layar
+	cout << "====================" << endl;								// Output ke layar
 }
