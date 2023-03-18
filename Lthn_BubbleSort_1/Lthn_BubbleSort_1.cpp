@@ -25,3 +25,6 @@ void input() {							// Procedure untuk input
 		cin >> a[i];													// Input dari pengguna
 	}
 }
+void bubbleSortArray() {				// Procedure untuk mengurutkan array dengan metode bubble sort
+
+}
