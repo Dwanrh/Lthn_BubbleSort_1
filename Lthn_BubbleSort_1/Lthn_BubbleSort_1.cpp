@@ -30,6 +30,7 @@ void bubbleSortArray() {					// Procedure untuk mengurutkan array dengan metode 
 		for (int j = 0; j < n - i; j++) {	// Looping dengan j dimulai dari 0 hingga n-i-1
 			if (a[j] > a[j + 1]) {			// Jika nilai pada a[j] lebih besar dari a[j+1]
 				int temp = a[j];			// Simpan nilai a[j] ke variabel sementara temp
+				a[j] = a[j + 1];			// Assign nilai a[j+1] ke a[j]
 			}
 
 		}
