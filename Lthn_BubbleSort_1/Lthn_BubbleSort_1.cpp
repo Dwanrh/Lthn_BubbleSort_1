@@ -49,5 +49,6 @@ void unsorted() {
 }
 
 void display() {							// Procedure untuk menampilkan hasil
+	cout << endl;														// Output ke layar
 
 }
