@@ -27,6 +27,9 @@ void input() {							// Procedure untuk input
 }
 void bubbleSortArray() {				// Procedure untuk mengurutkan array dengan metode bubble sort
 	for (int i = 1; i < n; i++) {		// Looping dengan i dimulai dari 1 hingga n-1
+		for (int j = 0; j < n - i; j++) {	// Looping dengan j dimulai dari 0 hingga n-i-1
+
+		}
 
 	}
 
