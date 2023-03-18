@@ -22,6 +22,6 @@ void input() {							// Procedure untuk input
 	
 	for (int i = 0; i < n; i++) {										// Procedure untuk mengurutkan array dengan metode bubble sort
 		cout << "Data ke-" << (i + 1) << ": ";							// Output ke layar
-
+		cin >> a[i];													// Input dari pengguna
 	}
 }
