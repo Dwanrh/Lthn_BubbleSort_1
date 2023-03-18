@@ -31,6 +31,7 @@ void bubbleSortArray() {					// Procedure untuk mengurutkan array dengan metode 
 			if (a[j] > a[j + 1]) {			// Jika nilai pada a[j] lebih besar dari a[j+1]
 				int temp = a[j];			// Simpan nilai a[j] ke variabel sementara temp
 				a[j] = a[j + 1];			// Assign nilai a[j+1] ke a[j]
+				a[j + 1] = temp;			// Assign nilai temp ke a[j+1]
 			}
 
 		}
